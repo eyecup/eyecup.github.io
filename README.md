@@ -1,2 +1,2 @@
 # eyecup.github.io
-site hosting lol
+i touched the README :)
